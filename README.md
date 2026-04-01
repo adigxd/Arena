@@ -1,4 +1,4 @@
-2024-11-24: Deprecated
+> 2024-11-24: Deprecated
 
 ---
 
